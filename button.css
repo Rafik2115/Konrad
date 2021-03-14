@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(218, 214, 18);
+    margin: 0;
+    padding: 0;
+
+  }
+
+header{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(123, 148, 90);
+    text-align: center;
+}
+
+h1{
+    font-family:  "Papyrus", fantasy, sans-serif;
+    font-size: 50px;
+    margin: 0;
+    line-height: 100px;
+}
+
+nav {
+    background-color: rgba(119, 33, 33, 0.486);
+    list-style-type: none;
+    text-align: center; 
+    padding: 0;
+    margin: auto;
+    position: relative;
+  }
+  
+nav li {
+    display: inline-block;
+    outline: 1px solid;
+    font-size: 20px;
+    padding: 40px;
+    width: 150px;
+  }
